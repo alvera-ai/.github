@@ -20,7 +20,17 @@ Our products are built on top of modern technologies.
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/next.svg" height="auto" width="40">
   
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/react-original.svg" height="auto" width="40">
-
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/aws.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/cloudflare.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/typescript.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/pulumi.svg" height="auto" width="40">
+  
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/postgre.svg" height="auto" width="40">
+  
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/nodejs-original.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/javascript-plain.svg" height="auto" width="40">
