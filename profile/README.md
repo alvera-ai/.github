@@ -27,6 +27,8 @@ Our products are built on top of modern technologies.
   
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/typescript.svg" height="auto" width="40">
   
+<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/elixir.svg" height="auto" width="40">
+  
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/pulumi.svg" height="auto" width="40">
   
 <img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/postgre.svg" height="auto" width="40">
