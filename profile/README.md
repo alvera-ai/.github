@@ -1,8 +1,5 @@
-![alt README header](https://raw.githubusercontent.com/v3-dot-cash/v3-dot-cash/main/assets/hamilton.jpeg)
-![GitHub Views](https://komarev.com/ghpvc/?username=v3-dot-cash&color=FAC151)
-<!-- [![typescript](https://img.shields.io/badge/React-Expert-FAC151.svg?logo=react&logoWidth=20)](https://github.com/v3-dot-cash)
-[![typescript](https://img.shields.io/badge/Django-Expert-FAC151.svg?logo=django&logoWidth=20)](https://github.com/v3-dot-cash)
-[![typescript](https://img.shields.io/badge/Mathematics-Expert-FAC151.svg?logo=mathematics&logoWidth=20)](https://github.com/v3-dot-cash) -->
+![alt README header](https://raw.githubusercontent.com/ah-dot-ai/ah-dot-ai/main/assets/hamilton.jpeg)
+![GitHub Views](https://komarev.com/ghpvc/?username=ah-dot-ai&color=FAC151)
 
 # <a href="https://www.alexanderhamilton.ai">AlexanderHamilton.ai</a>
 
@@ -17,41 +14,41 @@ Our products are built on top of modern technologies.
 
 <p align="left">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/next.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/next.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/react-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/react-original.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/aws.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/cloudflare.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/cloudflare.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/typescript.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/typescript.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/elixir.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/elixir.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/pulumi.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/pulumi.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/postgre.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/postgre.svg" height="auto" width="40">
   
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/nodejs-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/nodejs-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/javascript-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/css3-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/css3-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/sass-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/sass-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/jquery-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/jquery-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/html5-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/html5-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/visualstudio-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/redux-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/redux-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/v3-dot-cash/.github/main/assets/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## 📬 Get in Touch
