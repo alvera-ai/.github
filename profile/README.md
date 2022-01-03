@@ -1,4 +1,4 @@
-![alt README header](https://raw.githubusercontent.com/ah-dot-ai/ah-dot-ai/main/assets/hamilton.jpeg)
+![alt README header](https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/hamilton.jpeg)
 ![GitHub Views](https://komarev.com/ghpvc/?username=ah-dot-ai&color=FAC151)
 
 # <a href="https://www.alexanderhamilton.ai">AlexanderHamilton.ai</a>
