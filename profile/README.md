@@ -3,9 +3,9 @@
 
 # <a href="https://www.alexanderhamilton.ai">AlexanderHamilton.ai</a>
 
-## We are creating a zero-fee instant transactions platform
+## We are creating safer,faster and cheaper payments
 
-We are building the ability to do transactions for free, safely and instantly. We charge flat fees for compliance and automation. We re-imburse customers for honest errors and omissions
+We are building the ability to do transactions for free, safely and instantly. We charge flat fees for compliance and automation. 
 
 
 ## Our technologies
