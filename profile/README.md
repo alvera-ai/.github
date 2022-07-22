@@ -1,16 +1,16 @@
-![alt README header](https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/hamilton.jpeg)
+![alt README header](https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/banner.png)
 ![GitHub Views](https://komarev.com/ghpvc/?username=ah-dot-ai&color=FAC151)
 
-# <a href="https://www.alexanderhamilton.ai">AlexanderHamilton.ai</a>
+# <a href="https://www.alexanderhamilton.ai">HamiltonPay.Com</a>
 
-## We are creating safer,faster and cheaper payments
+## Contactless Front Office Powered by Programmable Payment
 
-We are building the ability to do transactions for free, safely and instantly. We charge flat fees for compliance and automation. 
+We build HIPAA & PCI compliant websites for clinics to augment front office staff with a contacless option for patients. Our website can automate all admin tasks related to an appointment from booking; recall campaigns; no-show automation; out of pocket automation and insurance verification.
 
 
 ## Our technologies
 
-Our products are built on top of modern technologies.
+Our products are built on top of modern technologies. We have open sourced our basic building to make it easier to build secure websites on aws using elixir, tailwind , alpine , github and terraform.
 
 <p align="left">
   
