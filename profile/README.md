@@ -14,47 +14,20 @@ Our products are built on top of modern technologies. We have open sourced our b
 
 <p align="left">
   
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/next.svg" height="auto" width="40">
-  
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/react-original.svg" height="auto" width="40">
+
   
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.svg" height="auto" width="40">
-  
+
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/cloudflare.svg" height="auto" width="40">
-  
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/typescript.svg" height="auto" width="40">
-  
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/elixir.svg" height="auto" width="40">
-  
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/pulumi.svg" height="auto" width="40">
-  
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/postgre.svg" height="auto" width="40">
-  
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/nodejs-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/javascript-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/css3-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/sass-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/jquery-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/html5-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/bootstrap-plain.svg" height="auto" width="40">
-
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/visualstudio-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/redux-original.svg" height="auto" width="40">
-
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/git-original.svg" height="auto" width="40">
 </p>
 
 ## 📬 Get in Touch
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:hh@v3.cash)
-[<img alt="discord" src="https://img.shields.io/badge/discord-333399.svg?&style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/qFTEmBGzxU)
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/company/v3-dot-cash)
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/v3_dot_cash)
-[<img alt="medium" src="https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://blog.alexanderhamilton.ai/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:contact@hamiltonpay.com)
+[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/company/hamilton-pay)
+[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hamilton_pay)
+[<img alt="medium" src="https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://blog.hamiltonpay.com/)
