@@ -16,13 +16,17 @@ Our products are built on top of modern technologies. We have open sourced our b
   
 
   
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.png" height="40" width="auto" style="background-color:grey;">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.png" height="40" width="auto">
 
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/cloudflare.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/elixir.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/postgre.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/visualstudio-plain.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/git-original.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/tailwind.png" height="40" width="auto" >
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/alpine.png" height="40" width="auto" >
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/terraform.png" height="40" width="auto" background-color="white">
+
 </p>
 
 ## 📬 Get in Touch
