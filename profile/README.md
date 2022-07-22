@@ -16,7 +16,7 @@ Our products are built on top of modern technologies. We have open sourced our b
   
 
   
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.svg" height="auto" width="40" style="backGroundColor: white">
 
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/cloudflare.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/elixir.svg" height="auto" width="40">
