@@ -1,37 +1,45 @@
-![alt README header](https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/banner.png)
-![GitHub Views](https://komarev.com/ghpvc/?username=ah-dot-ai&color=FAC151)
+# Welcome to Alvera dot ai
 
-# <a href="https://www.alexanderhamilton.ai">HamiltonPay.Com</a>
+## Our Vision 🚀
 
-## Contactless Front Office Powered by Programmable Payment
+We're building a next-generation Multi-Cloud Platform (MCP) designed specifically for regulated industries, leveraging cutting-edge technologies to deliver exceptional performance, security, and compliance at a fraction of traditional costs.
 
-We build HIPAA & PCI compliant websites for clinics to augment front office staff with a contacless option for patients. Our website can automate all admin tasks related to an appointment from booking; recall campaigns; no-show automation; out of pocket automation and insurance verification.
+## Our Technology Stack 💻
 
+- **Elixir** - For scalable, fault-tolerant backend services and talking to external world on HTTP(s), MLLP
+- **Python** - For fetching data from external world using non http(s) SFTP, RPA etc and exploratory data analysis
+- **Tailwind CSS** - For sleek, responsive interfaces
+- **Oban** - For robust background job processing
 
-## Our technologies
+## AI & Cloud Integration 🧠☁️
 
-Our products are built on top of modern technologies. We have open sourced our basic building to make it easier to build secure websites on aws using elixir, tailwind , alpine , github and terraform.
+We leverage best-in-class AI and cloud solutions:
 
-<p align="left">
-  
+- **Claude** - For advanced code generation
+- **Groq & Azure AI** - For efficient unstructured data processing
+- **Google Cloud** - For big data analytics and insights
+- **AWS** - For handling high-volume transaction loads
+- **Python Playwright** - For sophisticated RPA (Robotic Process Automation)
+- **Open Source Ecosystem** - Extensive use of open source tools to enhance capabilities
 
-  
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/aws.png" height="40" width="auto">
+## Performance That Speaks Volumes 📊
 
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/cloudflare.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/elixir.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/postgre.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/visualstudio-plain.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/git-original.svg" height="auto" width="40">
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/tailwind.png" height="40" width="auto" >
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/alpine.png" height="40" width="auto" >
-<img src="https://raw.githubusercontent.com/ah-dot-ai/.github/main/assets/terraform.png" height="40" width="auto" background-color="white">
+> **Currently in stealth mode**
 
-</p>
+Our proprietary algorithms have demonstrated remarkable capabilities:
 
-## 📬 Get in Touch
+- ✅ Processing 3 million records across multiple TCP protocols
+- ✅ Maintaining TP95 of just 300ms
+- ✅ Utilizing only 2GB RAM
+- ✅ Operating on 1-10 CPU units
 
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:contact@hamiltonpay.com)
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/company/hamilton-pay)
-[<img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hamilton_pay)
-[<img alt="medium" src="https://img.shields.io/badge/medium-000000.svg?&style=for-the-badge&logo=medium&logoColor=white"/>](https://blog.hamiltonpay.com/)
+## What Sets Us Apart 🔥
+
+- **Security-First Design** - Built from the ground up for highly regulated industries
+- **Compliance Built-In** - Engineered to meet stringent regulatory requirements
+- **Internet-Scale Performance** - Handle massive data volumes with minimal resources
+- **Cost-Effective** - Drastically reduces both implementation time and operational costs
+
+---
+
+*More details coming soon as we emerge from stealth mode.*
